@@ -1,3 +1,5 @@
+import "./css/main.css";
+
 const Main = () => {
     return (
         <div>
